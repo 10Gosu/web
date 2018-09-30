@@ -1,0 +1,13 @@
+
+<!doctype html>
+<head>
+<title> Hello </title>
+<meta charset="utf-8">
+</head>  
+
+<body>
+  <h1>1+1</h1>
+  <?php
+  echo 1+1;
+  ?>
+</body>
